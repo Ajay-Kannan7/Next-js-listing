@@ -1,0 +1,21 @@
+.navbar{
+    width:100%;
+    border-bottom:solid gray 3px;
+    display:flex;
+    justify-content:space-around;
+    font-size:25px;
+}
+.navlinks{
+    width:30%;
+    font-size:25px;
+    padding:2%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    text-align:center;
+}
+.link{
+    text-decoration:none;
+    color:black;
+
+}

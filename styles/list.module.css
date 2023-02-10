@@ -1,0 +1,22 @@
+.listWrapper{
+    padding:4%;
+}
+.listWrapper h1{
+    width:100%;
+    font-size:50px;
+    text-align:center;
+}
+.listWrapper .names{
+    display:block;
+    text-decoration:none;
+    color:black;
+    font-size:25px;
+    margin:3% 3%;
+    border:3px solid black;
+    padding:3%;
+    border-radius:20px;
+}
+.listWrapper .names:hover{
+    background-color:#000;
+    color:#fff;
+}

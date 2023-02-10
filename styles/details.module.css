@@ -1,0 +1,10 @@
+.mainWrapper{
+    width:100%;
+    margin:1% auto;
+    padding:3%;
+    text-align:center;
+}
+.mainWrapper h1{
+    font-size:45px;
+    margin-bottom:5%;
+}
